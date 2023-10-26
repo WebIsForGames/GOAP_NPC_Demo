@@ -1,0 +1,3 @@
+[submodule "Plugins/GOAPNPC"]
+	path = Plugins/GOAPNPC
+	url = https://github.com/WebIsForGames/GOAP_NPC.git
