@@ -1,11 +1,12 @@
 # Changes From Original "GOAP NPC Plugin DEMO"
 
-Changes:
-	- In FAtom: "name" was replaced with GameplayTag
+## Changes:
+- In FAtom: "name" was replaced with GameplayTag
 
-Links:
-	Updated Plugin Project: https://github.com/WebIsForGames/GOAP_NPC
-	Demo Build (HTML5): https://webisforgames.io/demos/7/
+## Links:
+Updated Plugin Project: https://github.com/WebIsForGames/GOAP_NPC
+
+Demo Build (HTML5): https://webisforgames.io/demos/7/
 
 # GOAP NPC Plugin DEMO
 
